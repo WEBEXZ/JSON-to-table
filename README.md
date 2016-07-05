@@ -69,7 +69,7 @@ Donde el primer argumento que recibe es el id del div a utilizar, y el segundo a
 
 ### Implementación con el navegador web.
 Estructura del JSON:
-~~~json
+~~~javascript
 var example = {
   users: [{
     name: "a",
