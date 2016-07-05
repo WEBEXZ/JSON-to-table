@@ -12,7 +12,7 @@ This function is responsible for taking JSON data and incorporates them into an 
 
 ### Implementation with web browser.
 JSON structure:
-~~~json
+~~~javascript
 var example = {
   users: [{
     name: "a",
@@ -50,7 +50,7 @@ Open web browser console and run:
 ~~~
 Result:
 
-![Resultado](img/demo.png "Resultado")
+![Resultado](img/demo.PNG "Resultado")
 
 ---
 
@@ -107,4 +107,4 @@ Abrir la consola del navegador web y ejecutar:
 ~~~
 Resultado:
 
-![Resultado](img/demo.png "Resultado")
+![Resultado](img/demo.PNG "Resultado")
