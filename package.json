@@ -1,5 +1,5 @@
 {
-  "name": "json-to-table",
+  "name": "json-tabla",
   "version": "1.0.1",
   "description": "pasar de json a tabla de html",
   "main": "json-table.js",
@@ -18,7 +18,8 @@
     "JSON",
     "HTML",
     "tabla",
-    "table"
+    "table",
+    "json"
   ],
   "author": "Carlos Carrera",
   "license": "ISC",
